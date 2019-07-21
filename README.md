@@ -12,4 +12,9 @@ The circuit design and hardwire implementation:
 ![image](https://user-images.githubusercontent.com/53126149/61594757-25c91c00-ac0d-11e9-9351-86b91a02e6d4.png)
 
 
+The arm design:
+
+
+
+
 
