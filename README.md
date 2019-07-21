@@ -14,6 +14,11 @@ The circuit design and hardwire implementation:
 
 The arm design:
 
+![image](https://user-images.githubusercontent.com/53126149/61594795-6fb20200-ac0d-11e9-900f-f3f683a94eb8.png)
+
+
+[ Note: Please convert the model files into printable files in autodesk maya before 3d printing ]
+
 
 
 
